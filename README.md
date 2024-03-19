@@ -4,4 +4,4 @@ Gabriel Rodrigues de Souza RA 118038
 
 Comunicaçao indireta usando RabbitMQ entre dois microsserviços com a utilização de banco de dados (MongoDB). Sendo um microsserviço de compra e outro de estoque.
 
-Também com o balance de cargas e tratamento de falhas 
+Também com o balance de cargas e tratamento de falhas e utilização do server Eureka
